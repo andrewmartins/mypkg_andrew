@@ -1,0 +1,2 @@
+Written with the with statement.
+Appended with the with statement.
