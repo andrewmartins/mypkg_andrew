@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/andrewmartins/mypkg_andrew/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/andrewmartins/mypkg_andrew/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of coding is to …
